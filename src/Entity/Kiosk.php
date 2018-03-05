@@ -80,4 +80,14 @@ class Kiosk
      * @ORM\OrderBy({"number": "ASC"})
      */
     private $lockers;
+
+    /**
+     * @ORM\Column(type="decimal", precision=7, scale=4)
+     */
+    private $latitude;
+
+    /**
+     * @ORM\Column(type="decimal", precision=7, scale=4)
+     */
+    private $longitude;
 }
