@@ -34,4 +34,9 @@ class Parcel
      * @ORM\Column(type="datetimetz_immutable", nullable=true)
      */
     private $deliveredAt;
+
+    /**
+     * @ORM\Column(type="smallint", nullable=true)
+     */
+    private $weight;
 }
