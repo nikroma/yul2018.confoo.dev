@@ -1,0 +1,4894 @@
+[
+    {
+        "name": "Anne",
+        "access": "private",
+        "layout": "35",
+        "address": {
+            "formatted": "Les Ateliers du Parc, 67 Boulevard du G\u00e9n\u00e9ral Leclerc (Eiffel Building), 92110 Clichy, France",
+            "street1": "Les Ateliers du Parc - Eiffel Building",
+            "street2": "67 Boulevard du G\u00e9n\u00e9ral Leclerc",
+            "zipCode": "92110",
+            "city": "Clichy",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.904119999999999,
+            "lng": 2.3117800000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Laure",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "31 Rue d'Alsace, 92300 Levallois-Perret, France",
+            "street1": "Centre Commercial SoOuest",
+            "street2": "31 Rue d'Alsace",
+            "zipCode": "92300",
+            "city": "Levallois-Perret",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.8927665,
+            "lng": 2.2975303999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bonnet",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "81 Rue des Bas, 92600 Asni\u00e8res-sur-Seine, France",
+            "street1": "ESSO Asni\u00e8res",
+            "street2": "81 Rue des Bas",
+            "zipCode": "92600",
+            "city": "Asni\u00e8res-sur-Seine",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.9198928,
+            "lng": 2.2886592000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Horus",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "17-23 Avenue de la Porte de Saint-Ouen, 75017 Paris, France",
+            "street1": "Total Porte de Saint Ouen",
+            "street2": "17-23 Porte de Saint Ouen",
+            "zipCode": "75017",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.899674300000001,
+            "lng": 2.3294063
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pikou",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "129 Boulevard Ney, 75018 Paris, France",
+            "street1": "Regimeubles et lits",
+            "street2": "129 Boulevard Ney",
+            "zipCode": "75018",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.897516600000003,
+            "lng": 2.3327854000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "12:00:00",
+                    "closing_time": "19:30:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:30:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:30:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:30:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:30:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:30:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "12:30:00",
+                    "closing_time": "19:30:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cascade",
+        "access": "private",
+        "layout": "35",
+        "address": {
+            "formatted": "4 Place de Saverne, 92400 Courbevoie, France",
+            "street1": "Dentsu Aegis Network",
+            "street2": "4 Place de Saverne",
+            "zipCode": "92400",
+            "city": "Courbevoie",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.892964799999987,
+            "lng": 2.2520194999999998
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Acapulco",
+        "access": "public",
+        "layout": "95",
+        "address": {
+            "formatted": "16 Avenue de Stalingrad, 92700 Colombes, France",
+            "street1": "Station BP Colombes 4 Routes",
+            "street2": "16-22 Avenue de Stalingrad",
+            "zipCode": "92700",
+            "city": "Colombes",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.928246199999997,
+            "lng": 2.2709771999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Arizona",
+        "access": "public",
+        "layout": "115",
+        "address": {
+            "formatted": "Boulevard Charles De Gaulle, 92700 Colombes, France",
+            "street1": "Station BP Colombes Charlesbourg",
+            "street2": "64 Boulevard G\u00e9n\u00e9ral De Gaulle",
+            "zipCode": "92700",
+            "city": "Colombes",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.910736,
+            "lng": 2.2346759999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Diane",
+        "access": "public",
+        "layout": "115",
+        "address": {
+            "formatted": "15 Parvis de la Defense, 92800 Puteaux, France",
+            "street1": "Centre commercial Les Quatre Temps - le D\u00f4me La D\u00e9fense",
+            "street2": "15 Tunnel de Nanterre La D\u00e9fense",
+            "zipCode": "92800",
+            "city": "Puteaux",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.890763,
+            "lng": 2.2373349
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Youna",
+        "access": "public",
+        "layout": "95",
+        "address": {
+            "formatted": "50 Avenue du Marechal Foch, 95100 Argenteuil, France",
+            "street1": "Centre Commercial C\u00f4t\u00e9 Seine",
+            "street2": "50 Avenue du Mar\u00e9chal Foch",
+            "zipCode": "95100",
+            "city": "Argenteuil",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.944255000000013,
+            "lng": 2.252964
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Coquine",
+        "access": "public",
+        "layout": "135",
+        "address": {
+            "formatted": "Zone commerciale Terre Neuve, Route de Gueret, 03410 Dom\u00e9rat, France",
+            "street1": "Centre Commercial Auchan Dom\u00e9rat",
+            "street2": "Route de Gu\u00e9ret",
+            "zipCode": "03410",
+            "city": "Dom\u00e9rat",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 46.339267300000003,
+            "lng": 2.5676964
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "12:30:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Florine",
+        "access": "public",
+        "layout": "135",
+        "address": {
+            "formatted": "2 Parvis de la D\u00e9fense, 92092 Paris, France",
+            "street1": "Centre commercial Cnit",
+            "street2": "2 Parvis de la D\u00e9fense",
+            "zipCode": "92092",
+            "city": "Paris La Défense",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.8925044,
+            "lng": 2.2386404999999998
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Suzanne",
+        "access": "public",
+        "layout": "135",
+        "address": {
+            "formatted": "15 Parvis de la Defense, 92800 Puteaux, France",
+            "street1": "Centre commercial Les Quatre Temps La D\u00e9fense",
+            "street2": "15 Tunnel de Nanterre La D\u00e9fense",
+            "zipCode": "92800",
+            "city": "Puteaux",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.890763,
+            "lng": 2.2373349
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cupcake",
+        "access": "private",
+        "layout": "35",
+        "address": {
+            "formatted": "Kantar, 60 Avenue du G\u00e9n\u00e9ral de Gaulle - Batiment le Guillaumet, 92800 Puteaux, France",
+            "street1": "Kantar",
+            "street2": "60 Avenue du G\u00e9n\u00e9ral de Gaulle - Batiment le Guillaumet",
+            "zipCode": "92800",
+            "city": "Puteaux",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.888119000000003,
+            "lng": 2.2335509999999998
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Repos",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "Centre commercial Beaugrenelle Panoramic, 12 rue Linois, 75015 Paris, France",
+            "street1": "Centre commercial Beaugrenelle Panoramic",
+            "street2": "12 rue Linois",
+            "zipCode": "75015",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.848416,
+            "lng": 2.2829579999999998
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Joyau",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "151 Rue de la Convention, 75015 Paris, France",
+            "street1": "Station service BP Lecourbe",
+            "street2": "151 Rue de la Convention",
+            "zipCode": "75015",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.839227999999999,
+            "lng": 2.2925249999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cl\u00e9ment",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "4\/6 Rue Louis Armand, 75015 Paris, France",
+            "street1": "Centre commercial Aquaboulevard",
+            "street2": "4 rue Louis Armand",
+            "zipCode": "75015",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.831702700000001,
+            "lng": 2.2764771000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Antoine",
+        "access": "public",
+        "layout": "95",
+        "address": {
+            "formatted": "68\/80 Avenue du Maine, 75014 Paris, France",
+            "street1": "Centre commercial Gaiet\u00e9",
+            "street2": "68-80 Avenue du Maine",
+            "zipCode": "75014",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.838724999999997,
+            "lng": 2.3219625000000002
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gero",
+        "access": "public",
+        "layout": "95",
+        "address": {
+            "formatted": "19 Boulevard des Fr\u00e8res Voisin, 75015 Paris, France",
+            "street1": "ESSO Fr\u00e8res Voisins",
+            "street2": "19 Boulevard des Fr\u00e8res Voisins",
+            "zipCode": "75015",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.828097399999997,
+            "lng": 2.2727913000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Edwina",
+        "access": "public",
+        "layout": "115",
+        "address": {
+            "formatted": "270 Rue Saint-Jacques, 75005 Paris, France",
+            "street1": "Maison des Mines de Paris",
+            "street2": "270 rue Saint Jacques",
+            "zipCode": "75005",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.8419174,
+            "lng": 2.3410974000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "07:30:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "07:30:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "07:30:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "07:30:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "07:30:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "07:30:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "07:30:00",
+                    "closing_time": "22:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "April",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "5 Rue Chapon, 75003 Paris, France",
+            "street1": "Land'Or",
+            "street2": "5 Rue Chapon",
+            "zipCode": "75003",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.862852599999997,
+            "lng": 2.3570853999999999
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "14:00:00"
+                },
+                {
+                    "opening_time": "15:30:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "14:00:00"
+                },
+                {
+                    "opening_time": "15:30:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "14:00:00"
+                },
+                {
+                    "opening_time": "15:30:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "14:00:00"
+                },
+                {
+                    "opening_time": "15:30:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "14:00:00"
+                },
+                {
+                    "opening_time": "15:30:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "14:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nona",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "17 Rue Breguet, 75011 Paris, France",
+            "street1": "Publicis Bastille",
+            "street2": "17 Rue Breguet",
+            "zipCode": "75011",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.857998299999998,
+            "lng": 2.3732438999999999
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": []
+        }
+    },
+    {
+        "name": "Citron",
+        "access": "public",
+        "layout": "135",
+        "address": {
+            "formatted": "99 Rue de Rivoli, 75001 Paris, France",
+            "street1": "99 Rue de Rivoli",
+            "street2": "75001 Paris",
+            "zipCode": "75001",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.8617864,
+            "lng": 2.3340277999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "23:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "23:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "23:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "23:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "23:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "23:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "23:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Croche",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "13 15 Av De Verdun, 92250 La Garenne-Colombes, France",
+            "street1": "ESSO La Garenne",
+            "street2": "13 \/ 15 Avenue de Verdun",
+            "zipCode": "92250",
+            "city": "La Garenne-Colombes",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.905791999999998,
+            "lng": 2.2364310000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Carole",
+        "access": "public",
+        "layout": "85",
+        "address": {
+            "formatted": "2 Parvis de la D\u00e9fense, 92092 Paris, France",
+            "street1": "Centre commercial CNIT",
+            "street2": "2 Parvis de la D\u00e9fense",
+            "zipCode": "92092",
+            "city": "Paris La Défense",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.8925044,
+            "lng": 2.2386404999999998
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tonton",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "101 Rue la Fayette, 75010 Paris, France",
+            "street1": "Univers Line",
+            "street2": "101 rue Lafayette",
+            "zipCode": "75010",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.877614299999998,
+            "lng": 2.3501763000000002
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lune",
+        "access": "public",
+        "layout": "135",
+        "address": {
+            "formatted": "101 Rue la Fayette, 75010 Paris, France",
+            "street1": "Univers Line",
+            "street2": "101 rue Lafayette",
+            "zipCode": "75010",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.877614299999998,
+            "lng": 2.3501763000000002
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "11:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Caroline",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "2\/6 Rue Louis Blanc, 75010 Paris, France",
+            "street1": "ESSO Louis Blanc",
+            "street2": "2-6 rue Louis Blanc",
+            "zipCode": "75010",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.878723099999988,
+            "lng": 2.3698283
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mamie",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "146 Avenue Daumesnil, 75012 Paris, France",
+            "street1": "Microhouse",
+            "street2": "146 Avenue Daumesnil",
+            "zipCode": "75012",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.840494399999997,
+            "lng": 2.3907465999999999
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "14:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rudolf",
+        "access": "private",
+        "layout": "45",
+        "address": {
+            "formatted": "Publicis Drugstore, 133 Av. des Champs-\u00c9lys\u00e9es, 75008 Paris, France",
+            "street1": "Publicis Champs",
+            "street2": "30 rue Vernet",
+            "zipCode": "75008",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.872678000000001,
+            "lng": 2.2970760000000001
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": []
+        }
+    },
+    {
+        "name": "Jeanne",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "2 Place de la Porte Maillot, 75017 Paris, France",
+            "street1": "Les Boutiques du Palais",
+            "street2": "Palais des Congr\u00e8s de Paris 2 Place de la Porte Maillot",
+            "zipCode": "75017",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.879452200000003,
+            "lng": 2.2834457000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:30:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:30:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:30:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:30:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:30:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:30:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:30:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cloudy",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "87 Rue Pelleport, 75020 Paris-20E-Arrondissement, France",
+            "street1": "G20 Pelleport",
+            "street2": "87 Rue Pelleport",
+            "zipCode": "75020",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.869418600000003,
+            "lng": 2.4000735
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sonia",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "4 Rue du Clos, 75020 Paris, France",
+            "street1": "Parking Pyr\u00e9n\u00e9es du Clos",
+            "street2": "4 Rue du Clos",
+            "zipCode": "75020",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.856539899999987,
+            "lng": 2.4063715000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Evan",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "8 Boulevard de l'Europe, 94340 Joinville-le-Pont, France",
+            "street1": "ESSO Joinville",
+            "street2": "8 Boulevard de l'Europe",
+            "zipCode": "94340",
+            "city": "Joinville-le-Pont",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.8131889,
+            "lng": 2.4658764
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Th\u00e9o",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "1 Place Fran\u00e7ois Mitterrand, 93100 Montreuil, France",
+            "street1": "G20 Montreuil",
+            "street2": "1 Place Fran\u00e7ois Mitterrand",
+            "zipCode": "93100",
+            "city": "Montreuil",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.865211000000002,
+            "lng": 2.4439700000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "22:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kouign",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "Centre commercial Auchan - Avenue du Mar\u00e9chal Joffre, 94120 Fontenay-sous-Bois, France",
+            "street1": "Centre Commercial Auchan Fontenay sous Bois",
+            "street2": "Avenue du Mar\u00e9chal Joffre",
+            "zipCode": "94120",
+            "city": "Fontenay-sous-Bois",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.853690999999998,
+            "lng": 2.4849432999999999
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Erable",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "4 Place du G\u00e9n\u00e9ral de Gaulle, 94120 Fontenay-sous-Bois, France",
+            "street1": "Station BP Val de Fontenay",
+            "street2": "Place du G\u00e9n\u00e9ral de Gaulle",
+            "zipCode": "94120",
+            "city": "Fontenay-sous-Bois",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.852835599999999,
+            "lng": 2.4853873000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mi",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "67 Avenue Raspail, 94250 Gentilly, France",
+            "street1": "ESSO Gentilly",
+            "street2": "67 Avenue Raspail",
+            "zipCode": "94250",
+            "city": "Gentilly",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.813651100000008,
+            "lng": 2.3483325000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Annael",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "79 Avenue Georges Gosnat, 94200 Ivry-sur-Seine, France",
+            "street1": "Station BP Ivry Mairie",
+            "street2": "79 Avenue Georges Gosnat",
+            "zipCode": "94200",
+            "city": "Ivry-sur-Seine",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.813332000000003,
+            "lng": 2.3888929999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Phare",
+        "access": "public",
+        "layout": "135",
+        "address": {
+            "formatted": "70 Avenue Aristide Briand, 92120 Montrouge, France",
+            "street1": "Station BP Montrouge Aristide Briand",
+            "street2": "70-74 Avenue Aristide Briand",
+            "zipCode": "92120",
+            "city": "Montrouge",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.816453000000003,
+            "lng": 2.3252519999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cloche",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "100 bis, route de la Reine, 92100 Boulogne-Billancourt, France",
+            "street1": "The Door Man",
+            "street2": "100 bis Route de la Reine",
+            "zipCode": "92100",
+            "city": "Boulogne-Billancourt",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.840155299999999,
+            "lng": 2.2372386999999998
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nahia",
+        "access": "private",
+        "layout": "35",
+        "address": {
+            "formatted": "57 Rue de Villiers, 92200 Neuilly-sur-Seine, France",
+            "street1": "GroupM",
+            "street2": "57 Rue de Villiers",
+            "zipCode": "92200",
+            "city": "Neuilly-sur-Seine",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.8911765,
+            "lng": 2.2780323999999998
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "18:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "18:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "18:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "18:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "18:00:00"
+                }
+            ],
+            "saturday": []
+        }
+    },
+    {
+        "name": "M\u00e9m\u00e9",
+        "access": "public",
+        "layout": "115",
+        "address": {
+            "formatted": "8 Rue Compans, 75019 Paris, France",
+            "street1": "Paris France Parking Place des F\u00eates",
+            "street2": "8 rue Compans",
+            "zipCode": "75019",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.875872000000001,
+            "lng": 2.3951269000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Katie",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "211 Avenue Gambetta, 75020 Paris, France",
+            "street1": "Paris France Parking Gambetta",
+            "street2": "211 Avenue Gambetta",
+            "zipCode": "75020",
+            "city": "Paris",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.873730500000001,
+            "lng": 2.4049768999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Aberdeen",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "93 Avenue Vladimir Ilitch L\u00e9nine, 92000 Nanterre, France",
+            "street1": "Station BP Nanterre L\u00e9nine",
+            "street2": "93 Avenue L\u00e9nine Vladimir Llitch",
+            "zipCode": "92000",
+            "city": "Nanterre",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.887666000000003,
+            "lng": 2.1878679000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gelato",
+        "access": "public",
+        "layout": "95",
+        "address": {
+            "formatted": "265 Avenue Georges Clemenceau, 92000 Nanterre, France",
+            "street1": "Station BP Nanterre Cl\u00e9menceau",
+            "street2": "265 Avenue Cl\u00e9menceau",
+            "zipCode": "92000",
+            "city": "Nanterre",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.885883999999997,
+            "lng": 2.2199580000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kenavo",
+        "access": "public",
+        "layout": "135",
+        "address": {
+            "formatted": "274 Avenue Jean Jaur\u00e8s, 93700 Drancy, France",
+            "street1": "Station BP Drancy",
+            "street2": "274 avenue Jean Jaur\u00e8s",
+            "zipCode": "93700",
+            "city": "Drancy",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.912815999999999,
+            "lng": 2.4630879999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "R\u00e9",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "108 Avenue Gallieni, 93140 Bondy, France",
+            "street1": "ESSO Bondy",
+            "street2": "108 Avenue Gallieni",
+            "zipCode": "93140",
+            "city": "Bondy",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.905708500000003,
+            "lng": 2.4814484000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ra",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "238 Rue de Paris, 93260 Les Lilas, France",
+            "street1": "Total Les Lilas",
+            "street2": "238 rue de Paris",
+            "zipCode": "93260",
+            "city": "Les Lilas",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.882982699999999,
+            "lng": 2.4266350999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "19:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Blanc",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "60 Avenue Paul Vaillant Couturier, 93150 Le Blanc-Mesnil, France",
+            "street1": "Station BP Blanc Mesnil",
+            "street2": "60 avenue Paul Vaillant Couturier",
+            "zipCode": "93150",
+            "city": "Le Blanc-Mesnil",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.927885000000003,
+            "lng": 2.4739610000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Do",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "108 Avenue Gallieni, 93140 Bondy, France",
+            "street1": "ESSO Gallieni",
+            "street2": "205 - 209 Avenue Gallieni",
+            "zipCode": "93140",
+            "city": "Bondy",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.905708500000003,
+            "lng": 2.4814484000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mare",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "70 Avenue de la Plaine, 74000 Annecy, France",
+            "street1": "ESSO Novel Annecy",
+            "street2": "70 Avenue de la Plaine",
+            "zipCode": "74000",
+            "city": "Annecy",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.916930000000008,
+            "lng": 6.1285040000000004
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Filaos",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "Centre commercial Auchan - Rue du commerce, 74330 Epagny, France",
+            "street1": "Centre Commercial Auchan Epagny",
+            "street2": "Le Grand Epagny",
+            "zipCode": "74330",
+            "city": "Epagny",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.937316000000003,
+            "lng": 6.0751549999999996
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "09:30:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "09:30:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "09:30:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "09:30:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "09:30:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "09:30:00",
+                    "closing_time": "20:30:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Arbre",
+        "access": "public",
+        "layout": "95",
+        "address": {
+            "formatted": "427 Rue Eug\u00e8ne Ducretet, 73000 Chamb\u00e9ry, France",
+            "street1": "TOTAL Relais Chamb\u00e9ry",
+            "street2": "201",
+            "zipCode": "73000",
+            "city": "Chamb\u00e9ry",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.593168200000008,
+            "lng": 5.8966471999999994
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "05:00:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "05:00:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "05:00:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "05:00:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "05:00:00",
+                    "closing_time": "20:30:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "07:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bourgeon",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "427 Rue Eug\u00e8ne Ducretet, 73000 Chamb\u00e9ry, France",
+            "street1": "TOTAL Relais Le Bourget Chamb\u00e9ry",
+            "street2": "427 Rue Eug\u00e8ne Ducretet",
+            "zipCode": "73000",
+            "city": "Chamb\u00e9ry",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.593168200000008,
+            "lng": 5.8966471999999994
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "00:05:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "17:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bell",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "A43, 73800 Myans, France",
+            "street1": "Station BP Granier",
+            "street2": "Aire du Granier Area A43",
+            "zipCode": "73800",
+            "city": "Myans",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.526143099999999,
+            "lng": 5.9745355
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Eliott",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "13 Avenue Pasteur, 13007 Marseille 7, France",
+            "street1": "ESSO Le Pharo",
+            "street2": "13 Avenue Pasteur",
+            "zipCode": "13007",
+            "city": "Marseille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 43.291357900000001,
+            "lng": 5.3593715999999993
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Datte",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "10 Boulevard Jean Moulin, 13010 Marseille, France",
+            "street1": "ESSO La Timone",
+            "street2": "10 Boulevard Jean Moulin",
+            "zipCode": "13010",
+            "city": "Marseille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 43.286576699999998,
+            "lng": 5.3998910999999996
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nora",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "3 Boulevard du Sablier, 13008 Marseille 8, France",
+            "street1": "ESSO Les Sabliers",
+            "street2": "3 Boulevard du Sablier",
+            "zipCode": "13008",
+            "city": "Marseille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 43.2535636,
+            "lng": 5.3822602000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Abeille",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "57 Boulevard Romain Rolland, 13010 Marseille, France",
+            "street1": "Centre Commercial Auchan Marseille Saint Loup",
+            "street2": "57 Boulevard Romain Rolland",
+            "zipCode": "13010",
+            "city": "Marseille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 43.279012600000001,
+            "lng": 5.4246954999999986
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Romane",
+        "access": "public",
+        "layout": "115",
+        "address": {
+            "formatted": "14 Avenue du Mar\u00e9chal de Lattre de Tassigny, 13009 Marseille 9, France",
+            "street1": "ESSO Mazargues",
+            "street2": "14 Avenue du Marechal de Lattre de Tassigny",
+            "zipCode": "13009",
+            "city": "Marseille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 43.2496309,
+            "lng": 5.4046570999999997
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Leana",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "90 Avenue Barth\u00e9l\u00e9my Buyer, 69009 Lyon, France",
+            "street1": "Centre Commercial E.Leclerc Lyon",
+            "street2": "90 Avenue Barth\u00e9lemy Buyer",
+            "zipCode": "69009",
+            "city": "Lyon",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.761516,
+            "lng": 4.8039216000000007
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Eflam",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "22 Rue Philippe de Lassalle, 69004 Lyon, France",
+            "street1": "ESSO Croix Rousse",
+            "street2": "22 Rue Philippe De Lassalle",
+            "zipCode": "69004",
+            "city": "Lyon",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.776417000000002,
+            "lng": 4.8210819999999996
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Fran",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "17 Rue du Dr Bouchut, 69003 Lyon, France",
+            "street1": "Centre Commercial Lyon Part Dieu",
+            "street2": "17 Rue du Docteur Bouchut",
+            "zipCode": "69003",
+            "city": "Lyon",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.761634099999988,
+            "lng": 4.8559980999999999
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "06:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Antonin",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "112 Cours Charlemagne, 69002 Lyon, France",
+            "street1": "Centre Commercial Confluence",
+            "street2": "112 Cours Charlemagne",
+            "zipCode": "69002",
+            "city": "Lyon",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.740925900000008,
+            "lng": 4.8176380999999999
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "10:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Feuille",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "112\/116 Rue de Gerland, 69007 Lyon, France",
+            "street1": "TOTAL Relais Raclet",
+            "street2": "112 Rue de Gerland",
+            "zipCode": "69007",
+            "city": "Lyon",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 45.734864899999998,
+            "lng": 4.8393395000000003
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "05:00:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "21:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "05:30:00",
+                    "closing_time": "17:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Membrane",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "Angle R. d'arras et de Courmont, 59000 Lille, France",
+            "street1": "Match Lille Moulins",
+            "street2": "Angle d'Arras et de Courmont",
+            "zipCode": "59000",
+            "city": "Lille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 50.619681300000003,
+            "lng": 3.0650268999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "12:30:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Fillette",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "97 Rue Solf\u00e9rino, 59000 Lille, France",
+            "street1": "Match Lille S\u00e9bastopol",
+            "street2": "75 Rue des Postes",
+            "zipCode": "59000",
+            "city": "Lille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 50.632211599999998,
+            "lng": 3.0538506999999999
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "12:30:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Fleuve",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "154 Boulevard Montebello, 59000 Lille, France",
+            "street1": "Match Lille Montebello",
+            "street2": "154 Boulevard de Montebello",
+            "zipCode": "59000",
+            "city": "Lille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 50.621386399999999,
+            "lng": 3.045979
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "12:00:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nature",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "13 Rue Lavoisier, 59790 Ronchin, France",
+            "street1": "Match Ronchin",
+            "street2": "13 Rue Lavoisier",
+            "zipCode": "59790",
+            "city": "Ronchin",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 50.604497100000003,
+            "lng": 3.0768578
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "09:00:00",
+                    "closing_time": "12:30:00"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:00:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Romain",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "100 Avenue Willy Brandt, 59777 Lille, France",
+            "street1": "Centre commercial Euralille",
+            "street2": "100 Centre Commercial",
+            "zipCode": "59777",
+            "city": "Lille",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 50.637430999999999,
+            "lng": 3.074541
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Goutte",
+        "access": "public",
+        "layout": "75",
+        "address": {
+            "formatted": "7 Avenue de la Division Leclerc, 95150 Taverny, France",
+            "street1": "Station BP Taverny",
+            "street2": "Avenue de la Division Leclerc",
+            "zipCode": "95150",
+            "city": "Taverny",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 49.017896499999999,
+            "lng": 2.2197786000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lyann",
+        "access": "public",
+        "layout": "35",
+        "address": {
+            "formatted": "5 Avenue Voltaire, 95600 Eaubonne, France",
+            "street1": "ESSO Eaubonne",
+            "street2": "5 Rue Voltaire",
+            "zipCode": "95600",
+            "city": "Eaubonne",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.994129000000001,
+            "lng": 2.2803010000000001
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "For\u00eat",
+        "access": "public",
+        "layout": "55",
+        "address": {
+            "formatted": "Boulevard Andr\u00e9 Br\u00e9mond, 95320 Saint-Leu-la-For\u00eat, France",
+            "street1": "Station BP Saint Leu la For\u00eat",
+            "street2": "Boulevard Andr\u00e9 Br\u00e9mond",
+            "zipCode": "95320",
+            "city": "Saint-Leu-la-For\u00eat",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 49.008715000000002,
+            "lng": 2.2398630000000002
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ombre",
+        "access": "public",
+        "layout": "45",
+        "address": {
+            "formatted": "Avenue de l'Europe, 78920 Ecquevilly, France",
+            "street1": "Station BP Ecquevilly",
+            "street2": "Avenue de l'Europe",
+            "zipCode": "78920",
+            "city": "Ecquevilly",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.970599,
+            "lng": 1.919108
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rayon",
+        "access": "public",
+        "layout": "45",
+        "address": {
+            "formatted": "16B Rue du 18 Juin, 95120 Ermont, France",
+            "street1": "Station BP Ermont",
+            "street2": "16 Rue du 18 juin",
+            "zipCode": "95120",
+            "city": "Ermont",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.989635999999997,
+            "lng": 2.257647
+        },
+        "schedule": {
+            "sunday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "monday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "00:00:00",
+                    "closing_time": "23:59:59"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Maya",
+        "access": "private",
+        "layout": "45",
+        "address": {
+            "formatted": "2 Rue Francis Pedron, 78241 Chambourcy, France",
+            "street1": "Kantar SAS",
+            "street2": "2 rue Francis P\u00e9dron",
+            "zipCode": "78241",
+            "city": "Chambourcy",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.908971000000001,
+            "lng": 2.0386150000000001
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "20:00:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "20:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lac",
+        "access": "public",
+        "layout": "65",
+        "address": {
+            "formatted": "Centre commercial Auchan - 5 Avenue de Lattre de Tassigny, 93800 \u00c9pinay-sur-Seine, France",
+            "street1": "Centre Commercial Auchan L' ILO",
+            "street2": "5 Avenue de Lattre de Tassigny",
+            "zipCode": "93800",
+            "city": "\u00c9pinay-sur-Seine",
+            "country": {
+                "code": "FR",
+                "name": "France"
+            }
+        },
+        "coordinates": {
+            "lat": 48.953488999999998,
+            "lng": 2.3135072000000001
+        },
+        "schedule": {
+            "sunday": [],
+            "monday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "tuesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "wednesday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "thursday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "friday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ],
+            "saturday": [
+                {
+                    "opening_time": "08:30:00",
+                    "closing_time": "21:30:00"
+                }
+            ]
+        }
+    }
+]
