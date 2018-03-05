@@ -23,3 +23,6 @@ Useful Commands
 
     # Run a migration script
     $ bin/console doctrine:migration:migrate
+
+    # Load data fixtures
+    $ bin/console doctrine:fixtures:load
