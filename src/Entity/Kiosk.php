@@ -70,4 +70,14 @@ class Kiosk
      * @ORM\Column(length=50)
      */
     private $citySlug;
+
+    /**
+     * @ORM\OneToMany(
+     *   targetEntity="App\Entity\Locker",
+     *   mappedBy="kiosk",
+     *   cascade={"all"}
+     * )
+     * @ORM\OrderBy({"number": "ASC"})
+     */
+    private $lockers;
 }
